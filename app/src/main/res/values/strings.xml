@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothZF</string>
+    <string name="bluetooth_device_icon_description">Ícone de Bluetooth</string>
+
+</resources>
